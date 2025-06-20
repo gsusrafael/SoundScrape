@@ -1,6 +1,6 @@
 #! /usr/bin/env python
 import argparse
-import demjson
+import demjson3 as demjson
 import html
 import os
 import re
